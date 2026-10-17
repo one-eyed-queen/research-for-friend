@@ -1,4 +1,4 @@
-# BALL x PITT quacking guide by sai (***kaneki***)
+# BALL x PITT quacking guide by ken
 
 1. extract the folder from zip
 2. run the download.bat 
