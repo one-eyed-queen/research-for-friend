@@ -1,4 +1,5 @@
 # START FROM STEP 6 to 9 IF FOR STEAMLESS OR STEAM STUB OR STEAM SRM OR STEAM DRMP OR ERROR CODE 54
+STAR, AND FOLLOW ME IF U LIKE MY WORK I HAVE A LOT OF WORKS LOL CHECK MY PROFILE
 
 .
 
@@ -31,10 +32,23 @@ and hence u privated and quacked a game yourself
 
 sources:-
 [steamless](https://github.com/atom0s/Steamless)
+-used to drmp
+
 [depot downloader mod](https://github.com/SteamAutoquacks/DepotDownloaderMod)
+-used to legally downlaod YOUR files from YOUR acc
+
 [gbe/gse](https://github.com/Detanup01/gbe_fork)
+-ends heavy steam bloat , by removing steam connection with the game
 
 
+
+
+
+
+
+
+
+# DO NOT USE IT FOR HARM OR BAD PURPOSES OR BYPASSING ANY PROTECTION IT IS STRICTLY PROHIBITED READ BELLOW TO KNOW WHY :C DONT DO PIRACY 
 ---
 
 ## 🛡️ Disclaimer, Educational Notice, & Fair Use
