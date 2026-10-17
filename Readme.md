@@ -1,3 +1,8 @@
+# START FROM STEP 6 IF FOR STEAMLESS OR STEAM STUB OR STEAM SRM OR STEAM DRMP OR ERROR CODE 54
+
+
+
+
 # BALL x PITT quacking guide by ken
 
 1. extract the folder from zip
