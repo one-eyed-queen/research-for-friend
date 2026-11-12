@@ -1,5 +1,5 @@
 # START FROM STEP 6 to 9 IF FOR STEAMLESS OR STEAM STUB OR STEAM SRM OR STEAM DRMP OR ERROR CODE 54(if not fixed then also do from step 10)
-STAR, AND FOLLOW ME IF U LIKE MY WORK I HAVE A LOT OF WORKS LOL CHECK MY PROFILE
+**STAR**, AND **FOLLOW M**E IF U LIKE MY WORK I HAVE A LOT OF WORKS LOL CHECK MY PROFILE  - REPORT TO MY DISCORD OR HERE IN ISSUES FOR ISSUES AND ERRORS
 
 .
 
@@ -51,8 +51,11 @@ sources:-
 [gbe/gse](https://github.com/Detanup01/gbe_fork)
 -ends heavy steam bloat , by removing steam connection with the game
 
+[coldloader](https://github.com/denuvosanctuary/coldloader)
+-a .ddl based gse cold-client loader, replacing coldclient.exe
 
-
+[coldloader-proxy](https://github.com/denuvosanctuary/coldloader-proxy)
+-a .dll used to proxy version.dll to sideload the coldloader.dll
 
 
 
