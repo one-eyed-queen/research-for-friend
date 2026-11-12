@@ -23,6 +23,9 @@ STAR, AND FOLLOW ME IF U LIKE MY WORK I HAVE A LOT OF WORKS LOL CHECK MY PROFILE
 9. rename the **Balls.exe.unpacked.exe** to **Balls.exe** & launch the game(if error still exists do these:-)
 ![Renaming Unpacked Executable](./img4.png)
 10. find your game's **appid** for our case it is "2062430" and game's executable/binary/launcher/.exe name/game name is "Balls.exe" you can find out from steam website's URL of the game or steamdb website of the game shows appid on the page or the link
+![Steam Based AppId](./APPID-STEAM.png)
+![SteamDB Based AppId](./APPID-STEAMDB.png)
+
 11. check out if your game is x64 or x32/x86 architecture
 12. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/GSE) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
 13. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.(follow step 15 if it gives steam client error)
