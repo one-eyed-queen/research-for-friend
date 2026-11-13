@@ -26,13 +26,15 @@
 ![Steam Based AppId](./APPID-STEAM.png)
 ![SteamDB Based AppId](./APPID-STEAMDB.png)
 
-11. check out if your game is x64 or x32/x86 architecture
-12. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/GSE) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
-13. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.(follow step 15 if it gives steam client error)
+11. Backup your **steam_api.dll** or **steam_api64.dll** first (make a folder named backup and __***COPY***__ the .dll into backup folder.
+
+12. check out if your game is x64 or x32/x86 architecture
+13. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/GSE) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
+14. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.(follow step 15 if it gives steam client error)
 
 
-14. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/COLD-CLIENT) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
-15. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.
+15. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/COLD-CLIENT) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
+16. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.
 
 now the quack file had gbe/gse- it stands for goldberg steam emulator, the name is pretty clear so it emulates steam by replacing steam dll (primarily)
 it emulates api and work of steam so game doesnt need to open or rely on actual steam; the game is like yeah works like normal steam as it does what i need to run, now if it does why did it not make the game work and steam opened after applying quack files?-----> because the game's exe had steam stub drm which was removed by us using steamless, so game never checks ownership and if steam is running and our gbe/gse also works and game runs like its launched by steam as if its owned by you
