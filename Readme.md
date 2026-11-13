@@ -30,8 +30,13 @@
 
 12. check out if your game is x64 or x32/x86 architecture
 13. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/GSE) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
-14. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.(follow step 15 if it gives steam client error)
+14. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.
+(**follow step 15 if it gives steam client error etc**)
 
+
+
+
+15. from backup folder __***COPY***__ the respective .dll(steam_api.dll or steam_api64.dll) back into game root dir/directory/main folder and follow next steps 
 
 15. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/COLD-CLIENT) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
 16. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.
