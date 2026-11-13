@@ -37,10 +37,10 @@
 
 
 
-16. from backup folder __***COPY***__ the respective .dll(steam_api.dll or steam_api64.dll) back into game root dir/directory/main folder and follow next steps 
+15. from backup folder __***COPY***__ the respective .dll(steam_api.dll or steam_api64.dll) back into game root dir/directory/main folder and follow next steps 
 
-15. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/COLD-CLIENT) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
-16. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.
+16. from [click-here](https://github.com/one-eyed-queen/research-for-friend/releases/tag/COLD-CLIENT) and grab the file according to your architecture of game and place it in your game folder replacing the game's .dll files etc if asked for.
+17. follow the release instructions and edit the files with the **appid** and **game name** and launch the game.
 
 now the quack file had gbe/gse- it stands for goldberg steam emulator, the name is pretty clear so it emulates steam by replacing steam dll (primarily)
 it emulates api and work of steam so game doesnt need to open or rely on actual steam; the game is like yeah works like normal steam as it does what i need to run, now if it does why did it not make the game work and steam opened after applying quack files?-----> because the game's exe had steam stub drm which was removed by us using steamless, so game never checks ownership and if steam is running and our gbe/gse also works and game runs like its launched by steam as if its owned by you
